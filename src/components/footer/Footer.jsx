@@ -42,7 +42,7 @@ const Footer = () => {
             </Link>
           </span>
           <span className="icon">
-            <Link to="linkedin.com/in/mohammad-kasim-1386a0152">
+            <Link to="https://www.linkedin.com/in/mohammad-kasim-1386a0152">
               <FaLinkedin />
             </Link>
           </span>
